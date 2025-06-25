@@ -1,3 +1,6 @@
+# CMPT 433: Embedde Systems
+Project to gain an understanding of how to work with an RTOS.
+
 ## Lightbouncer
 RTOS LED display creating a "bouncing" effect with the lights. User can control LED bounce speeds using a joystick, or through a serial port console using a UART.
 
